@@ -1,0 +1,24 @@
+{
+  "name": "medicrestsempiterno",
+  "version": "1.0.0",
+  "description": "Sempiterno Restful API for medical and health services (Test)",
+  "keywords": [
+    "Restful",
+    "Api"
+  ],
+  "homepage": "https://github.com/SH-ur/Backend-Evaluation---Sempiterno-Group#readme",
+  "bugs": {
+    "url": "https://github.com/SH-ur/Backend-Evaluation---Sempiterno-Group/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SH-ur/Backend-Evaluation---Sempiterno-Group.git"
+  },
+  "license": "ISC",
+  "author": "SH-ur",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  }
+}
