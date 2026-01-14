@@ -1,0 +1,7 @@
+{
+  "respawn": true,
+  "transpileOnly": true,
+  "ignore": ["node_modules", "dist", "*.test.ts"],
+  "watch": ["src"],
+  "ext": "ts,js,json"
+} 
