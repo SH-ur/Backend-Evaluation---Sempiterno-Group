@@ -10,7 +10,7 @@ import restoreUserHandler from "../../Handlers/Users/restoreUserHandler";
 const userRoutes= Router();
 
 userRoutes.post("/new-user", createUserHandler);
-userRoutes.get("/show-users", showUsersHandler);
+userRoutes.post("/show-users", showUsersHandler);
 userRoutes.post("/login", login);
 userRoutes.patch("/update-user/:id", patchUserHandler)
 userRoutes.delete("/block-user/:id", blockedUserHandler)
